@@ -1,10 +1,10 @@
-# Mícheál Morgan Landing
+# Gary Crawford Landing
 
 [![license][license-image]][license-url] [![changelog][changelog-image]][changelog-url]
 
 ## Summary
 
-Personal landing page for [michealmorgan.com](michealmorgan.com).
+This Personal landing page borrows heavily from [michealmorgan.com](michealmorgan.com). 
 
 Let's face it, we update our personal sites once in a blue moon. This go around, I wanted something that used the least amount of tech as possible. Something that when I go to perform an update in however many months/years, there are no frameworks or dead JavaScript to tend to. Just plain old HTML and CSS. 
 
@@ -15,7 +15,6 @@ Let's face it, we update our personal sites once in a blue moon. This go around,
 - Responsive
 - Single external library for CSS resets [normalize.css](https://github.com/necolas/normalize.css/)
 - Self contained with no outside dependencies - *Other than Google Analytics phoning home*
-- Hosted on [GitHub Pages](https://pages.github.com/) using [Cloudflare](https://www.cloudflare.com/) for TLS via a reverse proxy
 
 ## Content Objectives
 
